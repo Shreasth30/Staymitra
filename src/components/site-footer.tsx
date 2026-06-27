@@ -57,16 +57,16 @@ export function SiteFooter() {
               Popular Searches
             </h3>
             <nav className="mt-4 flex flex-col gap-2.5 text-sm text-muted-foreground">
-              <Link href="/search?city=Galgotias" className="transition-colors hover:text-foreground">
+              <Link href="/search?city=Greater+Noida" className="transition-colors hover:text-foreground">
                 Hostels near Galgotias
               </Link>
-              <Link href="/search?city=NIET" className="transition-colors hover:text-foreground">
+              <Link href="/search?city=Greater+Noida" className="transition-colors hover:text-foreground">
                 Hostels near NIET
               </Link>
-              <Link href="/search?city=GL+Bajaj" className="transition-colors hover:text-foreground">
+              <Link href="/search?city=Greater+Noida" className="transition-colors hover:text-foreground">
                 Hostels near GL Bajaj
               </Link>
-              <Link href="/search?city=GNIOT" className="transition-colors hover:text-foreground">
+              <Link href="/search?city=Greater+Noida" className="transition-colors hover:text-foreground">
                 Hostels near GNIOT
               </Link>
               <Link href="/search?city=Greater+Noida" className="transition-colors hover:text-foreground">
